@@ -7,6 +7,8 @@ public class Main {
     }
     public static void sayHello(String name){
         System.out.println("Helllo " +name);
+        System.out.println("Use revert");
+
     }
     private int age = 7;
 
