@@ -6,6 +6,7 @@ public class RegistrationTest {
         System.out.println("test");
         System.out.println("Last positive test");
         System.out.println("test amend");
+        System.out.println("test revert");
 
     }
 }
